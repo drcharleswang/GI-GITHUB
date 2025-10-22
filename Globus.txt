@@ -1,0 +1,33 @@
+Globus
+
+(rule out GERD, eoe, mano)
+
+1. Presence of intermittent, non-painful sensation of a lump or foreign body in the throat with no structural lesion identified on physical examination, laryngoscopy, or endoscopy
+a. Occurrence of the sensation between meals
+b. Absence of dysphagia or odynophagia
+c. Absence of gastric inlet patch in proximal esophagus
+RFA/APC inlet patches (>2 cm) = improve globus symptoms for up to 2 years after ablation. (case study small 10-11 people)
+-consider r/o thyroid issues with US/OSA
+
+2. Absence of evidence of GERD or eosinophilic esophagitis
+3. Absence of esophageal motor disorders
+
+An ENT examination, if needed associated with laryngoscopy and thyroid ultrasonography (when thyroid abnormalities are suspected),
+should be the first step to rule out any structural lesion of the oropharynx and larynx
+
+WU:
+If no alarm sxs: An empiric PPI trial 4-8 weeks.
+EGD if non responsive or alarm sxs, 
+EGD bx, tx inlet patch, Mano, consider pH monitoring
+
+TX:
+1) Half of globus patients have reported symptomatic benefit from mere reassurance - many resolve sxs and improve.
+2) In a single RCT, 25 mg of daily amitriptyline was found to have a response rate of nearly 75% of enrolled globus patients.
+3) Consider Speech Language Pathology Guided Behavioral therapy such as laryngeal recalibration therapy. PMCID: PMC11534515
+There is a strong overlap between idiopathic globus and affective disorders, as many as 35% had anxiety disorder, and 13% had depression;
+18% had borderline anxiety, while 28% had borderline depression.
+
+
+
+
+PMID: 32329203 (2020)

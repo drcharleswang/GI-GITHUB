@@ -1,0 +1,30 @@
+Mano with negative pH and egd if refractory heart burn sxs
+
+LPR can not be diagnosed based on laryngeal examination alone, pH testing is needed.
+
+Nearly 60% of patients on chronic PPI therapy have no indication, but patients at high risk of GI bleeding, those with erosive esophagitis Grade B or more, and strictures, Barrett's, IPF, Eoe, should not be off. 
+
+PPI beyond double dose (aka 40 mg per day) without erosive findings should not be dosed up without pH testing on PPI with Impedance. Q36/36 of esophgeal section 2023 ACG Test.
+
+Head and Neck
+
+Globus 
+
+1. Presence of intermittent, non-painful sensation of a lump or foreign body in the throat with no structural lesion identified on physical examination, laryngoscopy, or endoscopy
+a. Occurrence of the sensation between meals
+b. Absence of dysphagia or odynophagia
+c. Absence of gastric inlet patch in proximal esophagus
+Radiofrequency ablation (use APC) of large gastric inlet patches (>2 cm) of the upper esophagus has been shown to be beneficial to improve globus symptoms for up to 2 years after ablation.
+
+2. Absence of evidence of GERD or eosinophilic esophagitis
+3. Absence of esophageal motor disorders
+
+TX: Half of globus patients have reported symptomatic benefit from mere reassurance. In a single RCT, 25 mg of daily amitriptyline was found to have a response rate of nearly 75% of enrolled globus patients.
+Zerbib F, Rommel N, Pandolfino J, et al. ESNM/ANMS Review. Diagnosis and management of globus sensation: A clinical challenge. Neurogastroenterol Motil. 2020;32(9):e13850.
+
+If LPR disorders:
+The globus may be a result of laryngeal hyper-response and hypervigilance. Laryngeal behavioral therapy, such as laryngeal recalibration therapy, can effectively address hyperresponsive laryngeal behaviors and laryngeal hypervigilance.
+
+LPR:
+LPS include cough, voice hoarseness/change, throat clearing, excess phlegm in the throat, throat pain/sore throat. Multiple mechanisms can lead to laryngopharyngeal symptoms, and the term LPS does not implicate reflux as the etiology of symptoms. While laryngoscopy is an important part of evaluating LPS to assess for other non-reflux-related otolaryngologic processes, laryngopharyngeal reflux disease (LPRD) cannot be diagnosed based solely on laryngoscopy findings. A diagnosis of LPRD requires chronic troublesome LPS and objective evidence supporting the relationship between symptoms and gastroesophageal reflux. Thus, the best next step is to perform objective testing with ambulatory reflux monitoring to evaluate for pathologic gastroesophageal reflux disease.
+Empiric trials of acid suppression can be considered in patients with laryngopharyngeal symptoms and typical reflux symptoms such as heartburn or regurgitation. The presence of concomitant esophageal reflux symptoms increases the pre-test probability of gastroesophageal reflux pathology and response to acid suppression. However, in the setting of isolated LPS, such as in this patient, the recommendation is to proceed with objective testing prior to initiating anti-reflux therapy. Ambulatory reflux monitoring for evaluation of LPRD in patients with unproven GERD should be performed off acid suppression and established prior to acid suppression with PPI or consideration of anti-reflux surgery.

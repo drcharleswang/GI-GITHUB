@@ -1,0 +1,16 @@
+Obscure IDA
+
+
+VCE for overt GI bleeding or iron deficiency anemia, 44.8% of patients had P2 lesions. 
+The most common P2 lesion was the presence <5 small bowel angioectasias. 
+Endoscopic cauterization of gastrointestinal AVMs was performed in 7 patients: only 2 had nl Hb on follow up.
+> 50% had normal hemoglobin at the conclusion of follow-up which was attributed to discontinuation of NSAIDS
+and/or iron supplementation. 
+Only 16% of patients with IDA and subsequent resolution required additional red blood cell transfusion
+
+For small NETS in stomach, r/o H Pylori. Then check fasting gastrin.
+If elevated consider surveillance endoscopy.
+
+Patients with prior gastric or duodenal peptic ulcers are recommended to have testing for Helicobacter pylori prior to beginning a course of a nonsteroidal anti-inflammatory drug (NSAID) or low-dose aspirin therapy. If present on stool testing or urea breath test, Helicobacter pylori should be treated even if the prior ulcer was suspected to be due to ΝЅΑІDѕ. Patients taking NSAIDs are considered at high risk for gastroduodenal toxicity if they have a history of complicated ulcer or ≥3 risk factors: history of uncomplicated ulcer; age >65 years; high-dose NSAIDs therapy; concurrent use of aspirin, glucocorticoids, or anticoagulants. Complicated ulcers are bleeding, obstructing or perforating ulcers. Preventative options for these patients include therapy with a COX-2 inhibitor or a nonselective NSAID in combination with a proton pump inhibitor or misoprostol. High-dose H2 receptor antagonists are reserved for patients who cannot tolerate PPIs or misoprostol. Upper endoscopy is not indicated in this patient.
+
+Kiltz U, Zochling J, Schmidt WE, Braun J. Use of NSAIDs and infection with Helicobacter pylori--What does the rheumatologist need to know? Rheumatology. (Oxford) 2008;47:1342.

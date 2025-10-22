@@ -1,0 +1,45 @@
+Acute Pancreatitis
+
+Hospital:
+Moderate fluid resuscitation is best, Waterfall Study showed, with 1.5cc/kg/hr (~ 110cc/hr for 75 kg) rate then LR at 10cc/kg bolus if hypotension if there is no metabolic alkalosis (study did not apply to cirrhotics or heart failure patients)
+
+BiSAP (BUN > 25, AMS, Pleural Effusion, Age > 60, SIRS) > 2 = High Mortality
+
+Feed Oral < 24 hrs, if no PO < 72 hrs (PYTHON study), then PN (NGT same as NJT)
+
+If Severe AP, Oral Failure > 48 hrs, then CT for Pancreatic Necrosis, but no Antibxs unless SIRS - does not prevent PN
+If stones and SAP, then ERCP < 72, or < 24 if cholangitis
+
+If ERCP then CCY during hospitalization recommended
+
+Post Care:
+For recurrent acute pancreatitis after work up with no cause
+EtoH, stones, no genetic cause, no high triglycerides (50% of pregnant with AP), meds (AZA, ASA, Lasix, ACEI, Valproate, GLP-1)
+Then EUS/MRCP 6 weeks after episode if never done (finds occult ca/stones)
+
+Trail of CCY is reasonable as meta analysis suggested almost 30% reduction in pancreatitis cases after CCY. Br J Surg. 2020 Feb;107(3):191-199.
+
+Complications:
+Pancreatic Fluid collection are divided by 4 weeks (when walls form and transgastric drainage can be done)
+IF NO infection the most collections can be observed in 12 weeks after AP
+> 4 weeks, Pancreatic Pseudocysts (post interstitial edema) vs WOPN (post necrosis)
+If early drainage needed < 2 weeks then IR is best
+Pseudocysts can be watched regardless of size (even 12 cm), just repeat imaging in 3-6M
+Duodenal Obstruction, Bile Duct Stricture, Aneurysm tx with IR Embolization, Disconnected Panc Duct Syndrome (DPDS) in ~ 25% of PN - if wire - then ERCP Panc Stent, SVT can occur causing gastric varices, tx is splenectomy!
+
+TX: AutoImmune Pancreatitis - sausage pancreas no duct dilation, IgG4 > 2 X ULN (can also be elevated in PanCa, esp if imaging shows pancreatic atrophy, of note AIP can have elevated CA19-9)
+If jaundice then ERCP
+Prednisone 40 mg x 4 weeks, then atper, consider Tituximab
+Type II - has normal IgG (30% have IBD) - relapse is less common
+
+Chronic Pancreatitis:
+
+EtoH, Smoking, IgG, TG, Ca, Meds, Genetics PRSS1 (req Pan Ca screen), Divison/Amp Stenosis
+Dx with 72 hr Fat, > 25 gm, Elastase < 200/100 (if severe), Blood Trypsinogen > 20 ng/mL, EUS, Secretin test +/- MRCP
+
+Pain: No Narcs, NSAIDS/Tramadol, Gaba, PreGaba, Duloxetine, TCA, CP Block
+TX: <= 5mm stone in dilated PD with stone in head, ERCP
+> 5 mm should have lithotripsy ESWL
+If PD > 5 mm consider Puestow Surgery
+ESCAPE trail showed endo tx first, then surgery showed no difference in pain/mortality (0%)
+However surgery shows better resolution of pain, if good surgical candidate refer

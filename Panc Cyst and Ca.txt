@@ -1,0 +1,52 @@
+Pancreatic Cyst:
+
+PANC CYST:
+Follow if < 3 cm, for 5 years:
+< 1 cm, Q2Y MRI - after 4Y can lengthen
+1-2cm, Q1Y MRI - after 3 years, Q2Y MRI - after 4Y lengthen
+2-3M, EUS/FNA or MRI Q1Y x 4 years
+Consider EUS if growth > 2.5 mm/year
+
+EUS/FNA [3/5/a criteria] if > 3 cm or dilated PD > 5 mm (2-4 mm nl), atrophy, LAD, CA19-9
+
+*really need surgery
+		CEA low				CEA high
+AMY		Pseudo				IPMN
+							mucus string +/FNA mucin in cuboidal cells
+							Main Duct* = Surg
+							Side Branch, if Sx, PD > 10 mm*, > 5 mm nodule*
+							< 20 mm, then repeat 6M, Q18M, then stop if stable 5Y
+							> 20 mm < 30 mm, Q6M x 2, then Q12M - stop based on comorbid
+							> 30 mm* surgery, 
+low AMY	Serous				Mucinous* Cyst Neoplasm/Cystadenoma = surg
+		(solidhoneycomb)	egg shell calcium rim on imaging 
+		(central scar) 		low Glucose	/ body & tail
+		rare ca, no tx		(CEA 200)
+		
+		Solid Psuedopap*
+		88% young f
+		surg if possible
+		due to ca risk
+		MRI q1y x 5 post
+		surgery
+		
+NETs = Vascular on EUS with high CgA
+
+Pancreatic Cancer:
+Lift ime risk is 1.7%, 5Y survival is 13%
+Consider Screening with Yearly MRCP if:
+1) PRSS1 - screen 40 y/o or 20 years after 1st AP episode
+2) PJ (STK11) Hamartomas, screen age 40
+3) FAMMM, screen 50 or -10 years relative dx
+4) => 2 FDR, screen age 50
+5) Lynch/BRCA, 50yo  if 1FDR or -10 yrs
+
+WU:
+MRCP
+Courvoisier, palpable GB / Trousseau: superficial vein clot
+CA 19-9 > 37 IU/mL Sn 81%, Sp 89%
+
+Mass in head of Pancreas:
+Panc Ca - < 180 wrap of with veins, no artery contact - or surg futile
+T bili 2.3-14.6, if Surgery within 1 week, ERCP should not be done due to complications
+vs Meta Analysis showed no morality/morbidity differences
