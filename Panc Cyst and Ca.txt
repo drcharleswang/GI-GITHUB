@@ -18,11 +18,13 @@ AMY		Pseudo				IPMN
 							< 20 mm, then repeat 6M, Q18M, then stop if stable 5Y
 							> 20 mm < 30 mm, Q6M x 2, then Q12M - stop based on comorbid
 							> 30 mm* surgery, 
+							GNAS mutation specific
+							
 low AMY	Serous				Mucinous* Cyst Neoplasm/Cystadenoma = surg
 		(solidhoneycomb)	egg shell calcium rim on imaging 
 		(central scar) 		low Glucose	/ body & tail
 		rare ca, no tx		(CEA 200)
-		
+							KRAS mutation specific		
 		Solid Psuedopap*
 		88% young f
 		surg if possible
