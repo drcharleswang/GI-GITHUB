@@ -7,7 +7,7 @@ BiSAP (BUN > 25, AMS, Pleural Effusion, Age > 60, SIRS) > 2 = High Mortality
 
 Feed Oral < 24 hrs, if no PO < 72 hrs (PYTHON study), then PN (NGT same as NJT)
 
-If Severe AP, Oral Failure > 48 hrs, then CT for Pancreatic Necrosis, but no Antibxs unless SIRS - does not prevent PN
+If Severe AP, Oral Failure > 48 hrs, then CT for Pancreatic Necrosis, but no Antibxs unless SIRS! - early ANTIBXs does not prevent PN
 If stones and SAP, then ERCP < 72, or < 24 if cholangitis
 
 If ERCP then CCY during hospitalization recommended
