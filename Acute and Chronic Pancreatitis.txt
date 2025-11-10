@@ -29,7 +29,7 @@ Duodenal Obstruction, Bile Duct Stricture, Aneurysm tx with IR Embolization, Dis
 
 TX: AutoImmune Pancreatitis - sausage pancreas no duct dilation, IgG4 > 2 X ULN (can also be elevated in PanCa, esp if imaging shows pancreatic atrophy, of note AIP can have elevated CA19-9)
 If jaundice then ERCP
-Prednisone 40 mg x 4 weeks, then atper, consider Tituximab
+Prednisone 40 mg x 4 weeks, then taper, consider Rituximab
 Type II - has normal IgG (30% have IBD) - relapse is less common
 
 Chronic Pancreatitis:
