@@ -1,5 +1,8 @@
 PEG TUBE
 
-Dysphagia is common after a stroke and is a major risk factor for developing aspiration pneumonia. Guidelines recommend that enteral feeding via gastrostomy should be considered for adult survivors of stroke with dysphagia who cannot eat or drink sufficiently for >4 weeks. About 50% of stroke-related dysphagia, however, resolves within 1-2 weeks. As such, nasoenteral tube feeding is generally recommended for 2-3 weeks prior to considering percutaneous gastrostomy tube placement.
+Dysphagia is common after a stroke and is a major risk factor for developing aspiration pneumonia. 
+Guidelines recommend that enteral feeding via gastrostomy should be considered for adult survivors of stroke with dysphagia who cannot eat or drink sufficiently for >4 weeks. 
+About 50% of stroke-related dysphagia, however, resolves within 1-2 weeks. 
+As such, nasoenteral tube feeding is generally recommended for 2-3 weeks prior to considering percutaneous gastrostomy tube placement.
 
 Burgos R, Bretón I, Cereda E, et al. ESPEN guideline clinical nutrition in neurology. Clin Nutr. 2018;37:354-96.
