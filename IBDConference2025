@@ -90,6 +90,7 @@ ASUC = 6 BM + , HR > 90, FEVER, 10.5 hb, ESR > 30 (Truelove) should be admitted 
 to induce remission. Patients should have stool testing to rule out C. difficile infection. flexible sigmoidoscopy within 72 hours, and preferably within 24 hours of admission
 to assess the endoscopic severity of inflammation and obtain biopsies to evaluate for cytomegalovirus (CMV) colitis. 
 If Albumin is < 2.5, consider IFX 10 mg/kg for salvage therapy.
+NOTE: PREDICT-UC trial did not show a difference in clinical outcomes between 5 mg/kg and 10 mg/kg infliximab loading doses
 If CRP > 45 at Day 3 of inpt Travis, then surgery consult as HIGH colectomy rate
 Most cases UC flares with C Diff, that do not respond to VANC are not C Diff, but FLARE - should trail steroids
 
