@@ -1,4 +1,24 @@
-TNF (great for UC and CD)
+ALGO for 2025: 4 drug island IFX, RIZ IL23, VEDO, UPA
+
+UC Treatment:
+A) low risk, Mayo 1, Left Sided, < 150 Fecal Calpro, Older
+can consider VEDO/IFX if ASA fails
+B) high risk, Mayo 3, DEEP ULCERS
+IFX, and if fails UPA
+
+Crohn's Treatment:
+A) < 20% low risk
+older than > 30 yrs, small ileum disease, colon just apthomous ulcers - minimal sxs 
+-don't need much tx, 9 mg - NO ASA/consider Sulfsalazine - Consider DIET even as tx
+Consider RIS (Skyrizi) if fails
+Sulfasalzine rather than ASA for mild Crohns Colitis
+B) > 80% high risk
+< 30 yrs, extensive involvement, perianal, DEEP ULCERS, stricture/penetrating/ho of surgery
+START EARLY IFX, then UPA (Rinvoq)
+ADA is OK for small bowel CD (not UC)
+
+MEDS:
+ANTI TNF (great for UC and CD)
 however risk of melanoma skin cancer, infection, myocarditis
 track trough and Ab levels (IFX < 10), however note Ab levels can vary, if no sxs and trough is low just check again, do not just increase
 once you have Ab - then likely to fail other mono tx TNFs (switch, unless do dual therapy) ?? - is this with max dose Q20/26 IBD 2023
@@ -13,19 +33,19 @@ Great side effect profile very safe
 OK pregnancy
 
 IL23
-RIS/USTA
-RIS (risankizumab) Skyrizi - SQ
+RIS/USTA -| p19 IL23 subunit
+RIS (risankizumab) Skyrizi - IV then SQ
 IL23 p 19 --consider 2nd line after TNF fail esp in CD
 good for TNF psoarisis (scalp hands)
 LOW immunogencity despite large molecule in trail < 4%
 also mirikizumab (Omvoh) / guselkumab (Tremfya)
 
-USTA -| p40 subunit (Stelara)
+USTA -| p40 IL23 subunit (Stelara)
 pro very low immunogencity (IV induction) 
 - consider safer than TNF
 
-avoid in Hep B patient due to LFT issues
-NOT pregnancy (small molecule)
+IL23 avoid in Hep B patient due to LFT issues
+?? pregnancy (not a small MAB molecule)
 
 JAK2
 UPA (Upadacitnib) Rinvoq JAK -| for both UC and CD
@@ -34,6 +54,7 @@ most after failed TNF - esp in UC
 had MACE effects - THEREFOR right now not a 1st line agents (but really < 65 and no ho of smoking)
 containdications: CV and CAN NOT BE smoking, SHINGLES risk
 check LIPID levels 12 weeks after starting
+NOT pregnancy small molecule
 
 S1P - Ozanimod - for UC
 advantage it is ORAL med
@@ -47,6 +68,21 @@ increase in non melenoma skin cancer
 MTX - NOT pregnancy
 weekly dosing mainly for Ab formation
 
+PREGNANCY and IBD
+NOT - JAK/S1P/MTX
+? IL23
+OK - IFX, VEDO, AZA
+For women with ho of perianal Crohn’s disease, a cesarean section is recommended.
+
+UC Complications
+
+Acute Severe Ulcerative Colitis (ASUC)
+ASUC = 6 BM + , HR > 100, FEVER, 10.5 hb, ESR > 30 should be admitted for intravenous steroids, intravenous methylprednisolone 60 mg/d
+to induce remission. Patients should have stool testing to rule out C. difficile infection. flexible sigmoidoscopy within 72 hours, and preferably within 24 hours of admission
+to assess the endoscopic severity of inflammation and obtain biopsies to evaluate for cytomegalovirus (CMV) colitis. 
+If Albumin is < 2.5, consider IFX 10 mg/kg for salvage therapy.
+If CRP > 45 at Day 3 of inpt Travis, then surgery consult as HIGH colectomy rate
+Most cases UC flares with C Diff, that do not respond to VANC are not C Diff, but FLARE - should trail steroids
 
 Crohn's Complications
 
@@ -62,32 +98,14 @@ if low risk 1st surgery, not penetrating, isolated ileal resection
 if repeat calpro normal, colo normal can wait to start meds
 if High Risk = 2nd surgery esp in < 10 years
 needs MEDS, IFX and ??? VEDO best data (OK even if exposed to TNF)
-
-Crohn's Treatment:
-A) < 20% low risk
-older than > 30 yrs, small ileum disease, colon just apthomous ulcers - minimal sxs 
--don't need much tx, 9 mg - NO ASA/consider Sulfsalazine - Consider DIET even as tx
-Consider RIS (Skyrizi) if fails
-Sulfasalzine rather than ASA for mild Crohns Colitis
-B) > 80% high risk
-< 30 yrs, extensive involvement, perianal, DEEP ULCERS, stricture/penetrating/ho of surgery
-START EARLY IFX, then UPA (Rinvoq)
-
-4 drug island
-IFX, RIZ IL23, VEDO, UPA
+Dilate with ballon to ? 20 mm
 
 pouchitis
 https://pubmed.ncbi.nlm.nih.gov/34774224/
 VEDO has RCT
 
-Acute Severe Ulcerative Colitis (ASUC)
-ASUC = 6 BM + , HR > 100, FEVER, 10.5 hb, ESR > 30 should be admitted for intravenous steroids, intravenous methylprednisolone 60 mg/d
-to induce remission. Patients should have stool testing to rule out C. difficile infection. flexible sigmoidoscopy within 72 hours, and preferably within 24 hours of admission
-to assess the endoscopic severity of inflammation and obtain biopsies to evaluate for cytomegalovirus (CMV) colitis. 
-If Albumin is < 2.5, consider IFX 10 mg/kg for salvage therapy.
 
-ADA for CD, not in UC (better on VEDO) - esp for SB disease (UPA ? eff in SB dz)
-non severe SB disease CD, IL23
+
 
 
 
