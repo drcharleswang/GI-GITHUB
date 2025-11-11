@@ -5,3 +5,5 @@ An analysis of data from the UK found only 4 documented cases of TD with 16 mill
 A population study in Scandinavia estimated the risk of developing TD with metoclopramide use at 1 in every 2,000-2,800 treatment years. 
 In many cases, TD appears to be an idiosyncratic reaction and patients should be cautioned appropriately. 
 Although data is limited, the most common risk factor identified include age > 70, female gender, > 20 months of use, and higher doses (32 mg/day).
+Major side effects are uncommon but include tardive dyskinesia (FDA black box warning), depression, and prolongation of the QT interval.
+Can also consider off label use of Motegrity.
