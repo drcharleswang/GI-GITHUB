@@ -21,3 +21,11 @@ Glucose better than Lactulose
 > 2 hr 20 ppm rise in Hydrogen
 
 Proctalgia Fugax - treatment is reassurance
+
+Abdominophrenic dyssynergia (APD) is a functional gastrointestinal disorder characterized by an abnormal brain-gut reflex where the respiratory diaphragm contracts and the abdominal wall muscles relax during digestion, contrary to the normal response of diaphragm relaxation and abdominal muscle contraction.
+ This paradoxical movement leads to abdominal distention, bloating, and discomfort, often described as feeling like one is constantly pregnant, and is a key contributor to symptoms in disorders of gut-brain interaction such as irritable bowel syndrome (IBS) and functional dyspepsia.
+ The condition is not due to increased intra-abdominal gas or contents but results from a disrupted viscerosomatic reflex, with studies showing diaphragmatic descent and anterior abdominal wall protrusion during distension episodes.
+ While the exact cause remains unclear, it is thought to involve dysregulation of the gut-brain axis, and treatment options include diaphragmatic breathing exercises, cognitive behavioral therapy, gut-directed hypnotherapy, and biofeedback, though standardized protocols are still lacking
+
+Trail Diaphragmatic Breathing vs TCA
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9810002/
