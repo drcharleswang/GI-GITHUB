@@ -19,3 +19,5 @@ RAIR + = NO HIRSCH, normal relaxation of IAS
 SIBO
 Glucose better than Lactulose
 > 2 hr 20 ppm rise in Hydrogen
+
+Proctalgia Fugax - treatment is reassurance
