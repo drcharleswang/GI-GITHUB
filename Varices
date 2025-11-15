@@ -13,6 +13,12 @@ If < 15 kPa and Plt > 110 the repeat in 1 year as risk assessment in one year as
 DECOMP = HFE/Ascites/Bleeding
 EGD screening Q1-2Y
 
+Algo is: > 25kPa = NSBB, 
+> 20kPa if Plt < 150 NSBB, if Plt > 150 EGD, 
+> 15kPa if Plt < 110 NSBB, if Plt > 110 and < 150 EGD, if Plt > 150 screen in 1 year
+< 15kPa rescreen (no cirrhosis)
+< 8kPa no fibrosis
+
 DURING SCREEN:
 Esophageal Varices
 
