@@ -17,8 +17,10 @@ Post RFA of BE with LGD
 Esophageal Adenoca Nodule:
 If < 2 cm no high-risk features (bulky lesion, suspected deep invasion), both EMR and ESD are OK.
 
-Screen if 2 RF out of 6:
+Screen 
+if 2 RF out of 6:
 5 Yrs Gerd, Fat, White, Smoking, Male, 1FDR BE/EsoCa
+OR ASGE recommends EGD after sleeve gastrectomy, 3yrs, then Q5Ys for BE due to possible 11.4% development
 
 No repeat EGD:
 1) After Neg Screening:
