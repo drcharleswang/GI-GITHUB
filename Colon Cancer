@@ -24,3 +24,33 @@ endoscopy at the time of the next colonoscopy surveillance or by age 20–25 yea
 
 Consider ASCVD Calculator (esp if black, and smoker) - if > 10% should be ASA for CRC prevention. (40-59)
 If BBPS section < 2 then 1 year repeat, if advance adenoma then < 1 year.
+
+Colon Cancer Pathways
+
+1)CHROMOSOME INSTABILITY PATHWAY
+-traditional left sided colon cancer, typical adenoma pathway
+(f)APC pathway 85% (associated with AD FAP)or MMR pathway 15%
+APC is tumor suppressor and when mutated -> inhibited growth
+then KRAS mutations help proliferate, then TP53 --> carcinoma
+
+2)MIS MATCH REPAIR PATHWAY (MSI)
+MLH1-PMS2, MLSH2, MSH6
+
+!MLH1 deficient by inheritance (no methylation), but if +BRAF wt (LYNCH 98.6%) - adenomas
+!MLH1 deficient (due to hypermethylation silence), but if BRAF mutation (DE NOVO 15%)
+
+Usually test for IHC for all 4 proteins, if MSH2 or MSH6 absent = LYNCH
+If MLH1-PMS2 absent, unsure as hypermethyl can make protein def even in wt
+A) if +hypermethy seen then NOT LYNCH
+B) +BRAF mutation then NOT LYNCH
+C) if neg hypermethy, neg BRAF then germline test - as still can be LYNCH
+
+| Finding                                | Interpretation                     |
+| -------------------------------------- | ---------------------------------- |
+| MLH1/PMS2 loss + MLH1 hypermethylation | **Sporadic tumor**                 |
+| MLH1/PMS2 loss + BRAF V600E mutation   | **Sporadic tumor**                 |
+| MLH1/PMS2 loss + no BRAF mut, +		 |									  |
+| no hyperM   							 | Lynch							  |
+| MLH1/PMS2 loss + no hypermethylation   | **Possible Lynch → germline test** |
+
+Sporadic MSI pathway, BRAF mutation drives hypermethylation = SERRATED lesions
