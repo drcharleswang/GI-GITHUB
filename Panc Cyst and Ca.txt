@@ -22,9 +22,10 @@ AMY		Pseudo				IPMN
 							
 low AMY	Serous				Mucinous* Cyst Neoplasm/Cystadenoma = surg
 		(solidhoneycomb)	egg shell calcium rim on imaging 
-		(central scar) 		low Glucose	/ body & tail
+		(central scar)
+		*no FNH liver		low Glucose	/ body & tail
 		rare ca, no tx		(CEA 200)
-							KRAS mutation specific		
+		cuboid cells		KRAS mutation specific		
 		Solid Psuedopap*
 		88% young f
 		surg if possible
