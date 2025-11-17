@@ -1,23 +1,28 @@
-Active surveillance of BE with low-grade dysplasia (LGD) on chronic acid suppression is reasonable but not for patients with HGD. 
+(NDBE) NonDysplastic Barrett's = C1M2 (M is always larger)
+take 2 cm biopsies, unless first diagnosis then at least 8
+if pathology is normal:
+if < 3 cm, then repeat in 5 years (risk = 1/1000)
+if > 3 cm, then repeat in 3 years (risk 1/100)
 
-HGD = RFA (if nodule resection)
-LGD (confirmed) = RFA (preferred) vs
+If INDEF (check with pathology x 2), optimizie PPI and EGD Q6M with 1cm bx until negative x 2, then normal NDBE
+surveillance of 3-5 years
+IF dysplasia = RFA unless pt refuses
+IF pt refuses and LGD then optimize PPI EGD Q6M with 1 cm bx, negative x 2, then Q1Y x 2?, then normal NDBE
+HGD = RFA!
+T1a Cancer = EMR (not ESD due to stricture)
+If < 2 cm no high-risk features (bulky lesion, suspected deep invasion), both EMR and ESD are OK.
+T1b = SURG (unless low risk, ie < 500 um, no LVI, well diff EAC)
 
-NO TREATMENT SURVEILLANCE:
-Monitoring LGD - Q6M EGD x 2, with 1 cm bx (optimize PPI tx) - 6M, 12M, then Q1Y
-Monitoring InDeF = Q6M EGD with 1 cm bx (optimize PPI tx), 1) if repeat shows INDEF then Q1Y until NL x 2, then resume normal NDBE 2) if NL then normal NDBE 
-
-POST RFA TX SURVEILLANCE:
-Post RFA of BE with high-grade dysplasia or T1a,
-= EGD at 3M, +3M at 6M, + 6M at 12M, then Q12M forever (4 EGD in 2Y)
+POST RFA Ablation SURVEILLANCE:
+(take bx at GEJ, and then 1 CM for 2-5 cm past in distal esophagus)
 Post RFA of BE with LGD
 = EGD in 1Y, +2Y at Y3, the Q2Y forever
-(take bx at GEJ, and then 1 CM for 2-5 cm past in distal esophagus)
+Post RFA of BE with high-grade dysplasia or T1a,
+= EGD at 3M, +3M at 6M, + 6M at 12M, then Q12M forever (4 EGD in 2Y)
 
-Esophageal Adenoca Nodule:
-If < 2 cm no high-risk features (bulky lesion, suspected deep invasion), both EMR and ESD are OK.
 
-Screen 
+
+When to Screen for BE 
 if 2 RF out of 6:
 5 Yrs Gerd, Fat, White, Smoking, Male, 1FDR BE/EsoCa
 OR ASGE recommends EGD after sleeve gastrectomy, 3yrs, then Q5Ys for BE due to possible 11.4% development
