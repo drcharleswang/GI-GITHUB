@@ -39,7 +39,7 @@ Pancreatic Cancer:
 Lift ime risk is 1.7%, 5Y survival is 13%
 Consider Screening with Yearly MRCP if:
 1) PRSS1 - screen 40 y/o or 20 years after 1st AP episode
-2) PJ (STK11) Hamartomas, screen age 40
+2) PJ (STK11) Hamartomas, screen age 40-35
 3) FAMMM, screen 50 or -10 years relative dx
 4) => 2 FDR, screen age 50
 5) Lynch/BRCA, 50yo  if 1FDR or -10 yrs
