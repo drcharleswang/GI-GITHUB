@@ -2,10 +2,52 @@ IBS-D
 
 Cholestyramine / Colestipol
 Levisin/Hyocyamine for abd pain SL?
-side effects (dry mouth, blurred vision, drowsiness, dizziness, constipation, and urinary retention. rare rapid heartbeat, confusion, hallucinations, or acute narrow-angle glaucoma, particularly in older adults)
+side effects (dry mouth, blurred vision, drowsiness, dizziness, constipation, and urinary retention. 
+rare rapid heartbeat, confusion, hallucinations, or acute narrow-angle glaucoma, particularly in older adults)
 
 Rifaxamin
 TCA
 
 Lotronex - Alosetron - 5HT3 antagonist - ISCHEMIC Colitis RESTRICTED ? in me too
-Viberizi - Eluxadoline - mu/kappa receptor, while approved for IBS-D, should not be used in this case, or in patients at risk for pancreatitis, SOD, CCY. Avoid in ETOH 3 drinks/day.
+Viberizi - Eluxadoline - mu/kappa receptor, while approved for IBS-D, should not be used in this case, or 
+in patients at risk for pancreatitis, SOD, CCY. Avoid in ETOH 3 drinks/day.
+
+
+Rule out Diarrhea Causes
+
+Rule out Celiac Disease
+TTG, or HLA D/Q 28
+Biopsies
+
+Microscopic Colitis if low high Calpro 100-200
+
+Calpro > 1000 = IBS/Crohsn UC
+
+Fecal Fat Screen
+SB - if low, D-xylose absorbed by gut, so will be low in blood/urine if intestintal damage
+PANCREASE - if normal/high, gut absorption is fine, pointing towards pancreatic cause
+5 Hour Urine (not routinely done)
+
+Fecal Elastase - must be solid stools
+< 50 EPI severe
+< 100 EPI likely
+200 or above is normal
+
+Ostomotic Gap = 290 x 2 Na Stool x 2 K Stool
+GAP > 100 - OsMOTIC - Laxatives, Gum, Caffiene, if pH < 5 Lactose/Carbs
+GAP < 50 (lot of Na/K) then SeCRETORY - BAM, EPI, Cirrhosis, Ileal Resection, SIBO, CD
+
+Meds
+Metformin, PPI, Colchicine, Mg, NSAIDS, Antibxs
+
+Hormone
+TSH/ AM Cortisol / Pheo
+
+Cancers
+VIP - HyopoK and low Cl due to low Gastric Acid, 
+Calcitonin - Medullary Thyroid Cancer
+Somatostatin - Hypoglyce/Steatorea
+5 HIAA, Glucagonoma - Diarrhea/Dermatitis/DVT,Nec
+
+Infections:
+C Diff, Whipples, TB
