@@ -1,15 +1,16 @@
 Secretaguogues
 
 CIC
-Amitizia - Lubiprostone (30% can have nausea) - Cl2 channels
-Linzess - Linaclotide
+Amitizia - Lubiprostone (30% have nausea) - Cl2 channels - BID dosing take with food
+Linzess - Linaclotide - cGMP - 145 mcg/day (also 72 mcg)
 Trulance - Plecanatide (Cl2) - for IBS C and CIC - stimulate GC receptors (? reduction in abd pain)
 Motegrity - Prucalopride - 5HT4 receptors 2mg/day, if renal issues consider 1 mg/day
 
 IBS-C
 Amitizia - Lubiprostone (30% have nausea) - Cl2 channels - BID dosing take with food
-Trulance - abd pain
-tenapanor Ibsrela - INHbits Na/NH3 exchangers ? HyperK in CKD
+Linzess - Linaclotide - cGMP - 290 mcg/day
+Trulance - Plecanatide (Cl2) - for IBS C and CIC - stimulate GC receptors (? reduction in abd pain)
+Ibsrela - Tenapanor - INHbits Na/NH3 exchangers ? HyperK in CKD, 50 mg BID before breakfast/dinner (not for pregnancy)
 
 Opiod Constipation
 Amitiza
