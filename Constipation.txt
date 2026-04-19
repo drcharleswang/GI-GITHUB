@@ -11,6 +11,7 @@ Amitizia - Lubiprostone (30% have nausea) - Cl2 channels - BID dosing take with 
 Linzess - Linaclotide - cGMP - 290 mcg/day
 Trulance - Plecanatide (Cl2) - for IBS C and CIC - stimulate GC receptors (? reduction in abd pain)
 Ibsrela - Tenapanor - INHbits Na/NH3 exchangers ? HyperK in CKD, 50 mg BID before breakfast/dinner (not for pregnancy)
+Zelnorm - Tegaserod - 5HT4 receptor agonist - ? CV risk
 
 Opiod Constipation
 Amitiza
