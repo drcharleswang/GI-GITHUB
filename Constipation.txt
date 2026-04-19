@@ -1,13 +1,18 @@
 Secretaguogues
 
 CIC
-Amitizia - Lubiprostone (30% can have nausea)
+Amitizia - Lubiprostone (30% can have nausea) - Cl2 channels
 Linzess - Linaclotide
-Trulance - Plecanatide (Cl2)
+Trulance - Plecanatide (Cl2) - for IBS C and CIC - stimulate GC receptors (? reduction in abd pain)
+Motegrity - Prucalopride - 5HT4 receptors 2mg/day, if renal issues consider 1 mg/day
 
 IBS-C
-Prucalopride - Motegrity
+Amitizia - Lubiprostone (30% have nausea) - Cl2 channels - BID dosing take with food
+Trulance - abd pain
 tenapanor Ibsrela - INHbits Na/NH3 exchangers ? HyperK in CKD
+
+Opiod Constipation
+Amitiza
 
 Balloon Explusion > 1 minute abnromal
 If BET normal but Abnormal Mano Patterns but no DD
