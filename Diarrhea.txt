@@ -51,3 +51,28 @@ Somatostatin - Hypoglyce/Steatorea
 
 Infections:
 C Diff, Whipples, TB
+
+Oral Infection
+
+Top 3:
+1) Camplylo - Jejui/coli - most COMMON
+1/2 have Myalgia/Headaches and Duration is < 1 weeks
+Infected by Chicken/Milk
+2) ETEC - Traveler's Diarrhea
+3) Norovirus
+
+Salmonella  - No Treatment, unless Thypoid, or if chronic, consider CCY, can infecte vessles/heart valves
+
+Vibrio - Parahemolyticus (Oysters Japanese)
+       - [Vulnificus!!] Must Treat, Cirrhotics with Shellfish (can be a wound in 50%)
+       - Treat with CTX/Doxy
+Vibrio Cholrea - Water Diarrhea ( B subunit increases cAMP)
+               - like Shigella but does not invade cells
+
+[Shigella!!] - rips Coloncytes, causing Ulcers
+             - Renal Failure with HUS
+             - Treat with CIPRO
+
+vs EHEC - can also cause HUS/Microclots in Kidneys (inc Hb, dec Plts)
+        - DONT TREAT with antibiotics
+
